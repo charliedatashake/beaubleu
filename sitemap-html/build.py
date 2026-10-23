@@ -52,8 +52,6 @@ services = [
     ('/pages/detaxe', 'Détaxe'),
     ('/pages/contact', 'Nous contacter'),
     ('/pages/contacter-latelier', "Contacter l'atelier"),
-    ('/pages/conditions-generales-de-vente', 'Conditions générales de vente'),
-    ('/pages/mentions-legales', 'Mentions légales'),
 ]
 for lst in (pages_collections, maison, services):
     for p, _ in lst:
