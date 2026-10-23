@@ -1,0 +1,90 @@
+# Beaubleu Paris
+
+> Beaubleu est une maison horlogère parisienne fondée en 2017 par le designer Nicolas Ducoudert. Elle conçoit et assemble à Paris des montres automatiques reconnaissables à leurs aiguilles rondes, vendues en ligne, dans son showroom du Marais et chez des détaillants partenaires en France et à l'international.
+
+Notes importantes :
+- Toutes les montres Beaubleu sont à mouvement automatique : elles se remontent grâce au mouvement du poignet, avec un remontage manuel possible via la couronne.
+- Les montres sont imaginées, conçues et assemblées à la main dans l'atelier d'horlogerie parisien de la Maison, situé à quelques rues du showroom. Cet atelier assure aussi l'entretien et le service après-vente.
+- Les mouvements viennent de deux manufactures : Miyota (Japon) et France Ébauches (Franche-Comté). France Ébauches équipe les collections La Pièce et Seconde Française.
+- Deux familles de produits coexistent : la collection permanente (Ecce et Ecce Figura) et des éditions limitées (La Pièce, Seconde Française, Vitruve et les collections plus anciennes, listées dans les archives). La Pièce et Vitruve sont éditées à 888 exemplaires.
+- La garantie est de 3 ans sur la montre et de 5 ans sur le mouvement. La livraison est offerte, en France comme à l'étranger.
+- Le showroom est situé au 70 rue Notre-Dame-de-Nazareth, 75003 Paris. Le site existe en français et en anglais (version sous /en/).
+- Le nom s'écrit « Beaubleu » en un seul mot. Le site marchand est beaubleu-paris.com.
+
+## Collections de montres
+
+- [Collection permanente](https://beaubleu-paris.com/collections/collection-permanente): montres automatiques de la collection permanente, Ecce et Ecce Figura, à partir de 990 €.
+- [Collection Ecce](https://beaubleu-paris.com/pages/collection-ecce): première collection permanente de la Maison, lancée en 2023, articulée autour de trois cadrans : Vesperal, Lys et Smalt.
+- [Collection Ecce Figura](https://beaubleu-paris.com/collections/collection-ecce-figura): déclinaison d'Ecce dans un boîtier semi-octogonal, en six coloris : Alba, Lys, Onyx, Sienna, Smalt et Vesperal.
+- [Collection La Pièce](https://beaubleu-paris.com/pages/collection-la-piece): édition limitée à 888 exemplaires par tonalité, dont les cadrans sont frappés à la Monnaie de Paris, en deux modèles (n°1 et n°2), à partir de 1 790 €.
+- [Éditions limitées](https://beaubleu-paris.com/collections/editions-limitees): catalogue des modèles La Pièce n°1 et n°2 disponibles en édition limitée.
+- [Collection Seconde Française](https://beaubleu-paris.com/pages/collection-seconde-francaise): deux références en édition limitée, 19.24 et 20.24, avec trotteuse volante et mouvement France Ébauches, à partir de 1 490 €.
+- [Bracelets et accessoires](https://beaubleu-paris.com/collections/accessoires): bracelets de rechange, dont des modèles grainés, caïman, acier tressé et Tropic.
+
+## La Maison et son savoir-faire
+
+- [Histoire de la Maison](https://beaubleu-paris.com/pages/histoire): création en 2017 par Nicolas Ducoudert, place des aiguilles rondes et les trois règles qui guident la Maison.
+- [Savoir-faire](https://beaubleu-paris.com/pages/savoir-faire): culture créative, conception et assemblage à Paris, et choix des mouvements France Ébauches.
+- [Conçue et assemblée en France](https://beaubleu-paris.com/pages/concue-et-assemblee-en-france): précisions sur la conception et l'assemblage des montres dans l'atelier parisien.
+- [Garanties](https://beaubleu-paris.com/pages/garanties): mouvements garantis 5 ans, montres garanties au moins 2 ans, assemblage et contrôle de chaque pièce par l'horloger.
+- [Nos boutiques](https://beaubleu-paris.com/pages/nosboutiques): showroom parisien et localisateur des détaillants et horlogers partenaires.
+
+## Informations pratiques
+
+- [Foire aux questions](https://beaubleu-paris.com/pages/faq): boutique, paiement en trois ou quatre fois avec Alma (France), garanties, remontage, service après-vente et livraison.
+- [Utilisation et entretien](https://beaubleu-paris.com/pages/utilisation): bonnes pratiques, gestes à éviter, étanchéité et contrôle de la montre par l'atelier tous les 5 ans.
+- [Livraison offerte](https://beaubleu-paris.com/pages/livraison-et-retours-offerts): livraisons en France et à l'étranger, taxes et droits de douane non inclus hors Union européenne et États-Unis.
+- [Garantie 36 mois](https://beaubleu-paris.com/pages/garantie-36-mois): montre garantie 3 ans et mouvement garanti 5 ans.
+- [Contacter l'atelier](https://beaubleu-paris.com/pages/contacter-latelier): formulaire pour les questions, le suivi de commande et le service après-vente.
+
+## Guides sur les montres automatiques
+
+- [Comment bien choisir sa première montre](https://beaubleu-paris.com/blogs/guides/bien-choisir-sa-premiere-montre): critères de choix entre mécanisme, design, taille et matière du bracelet.
+- [Différence entre une montre automatique et une montre à quartz](https://beaubleu-paris.com/blogs/guides/difference-montre-automatique-et-quartz): comparaison des deux types de mouvements et de leur remontage.
+- [Différence entre montres automatiques et mécaniques](https://beaubleu-paris.com/blogs/guides/difference-montres-automatiques-et-mecaniques): les différents types de mouvements mécaniques.
+- [Comprendre les mécanismes d'une montre automatique](https://beaubleu-paris.com/blogs/guides/comprendre-mecanismes-montre-automatique): spécificités et fonctionnement d'un mouvement automatique.
+- [Les différents mouvements automatiques de montres](https://beaubleu-paris.com/blogs/guides/differents-mouvements-automatiques-montres): panorama des mouvements automatiques, dont le Miyota.
+- [Comment remonter sa montre automatique](https://beaubleu-paris.com/blogs/guides/comment-remonter-montre-automatique): conseils pour remonter une montre automatique en toute sécurité.
+- [Entretenir une montre automatique](https://beaubleu-paris.com/blogs/guides/entretenir-montre-automatique): gestes d'entretien pour conserver et transmettre sa montre.
+- [Réserve de marche d'une montre mécanique](https://beaubleu-paris.com/blogs/guides/reserve-de-marche-montre-mecanique): définition de la réserve de marche et fonctionnement concret.
+- [Comment choisir son bracelet de montre](https://beaubleu-paris.com/blogs/guides/comment-choisir-bracelet-montre): rôle du bracelet et critères pour le choisir.
+- [Comment trouver la bonne taille de montre](https://beaubleu-paris.com/blogs/guides/bonne-taille-montre-poignet): repères pour choisir un diamètre adapté à son poignet.
+- [Ma montre automatique a pris l'eau, que faire](https://beaubleu-paris.com/blogs/guides/ma-montre-automatique-a-pris-leau-que-faire): conseils de la Maison en cas de problème d'étanchéité.
+- [Comment reconnaître une montre contrefaite](https://beaubleu-paris.com/blogs/guides/comment-reconnaitre-une-montre-contrefaite): conseils pour repérer les contrefaçons.
+- [Lexique de la montre](https://beaubleu-paris.com/blogs/guides/lexique-montre-beaubleu): vocabulaire horloger expliqué.
+
+## Actualités et histoire de la marque
+
+- [Montre de marque française](https://beaubleu-paris.com/blogs/actualites/montre-de-marque-francaise): cinq critères concrets pour juger ce que recouvre une montre de marque française : assemblage, mouvement, design.
+- [Beaubleu x France Ébauches](https://beaubleu-paris.com/blogs/actualites/beaubleu-france-ebauches): choix des mouvements France Ébauches pour la collection Seconde Française.
+- [Comparaison du Miyota 9015 et du Sellita](https://beaubleu-paris.com/blogs/actualites/comparaison-miyota-9015-sellita-mouvements-automatiques-montres-automatiques): différences entre deux mouvements automatiques courants.
+- [Ecce Figura, la forme comme expression du temps libre](https://beaubleu-paris.com/blogs/actualites/ecce-figura-la-forme-comme-expression-du-temps-libre): présentation du boîtier semi-octogonal d'Ecce Figura.
+- [La Pièce au GPHG 2026](https://beaubleu-paris.com/blogs/actualites/la-piece-gphg-2026): nomination de La Pièce n°2 Argent au Grand Prix d'Horlogerie de Genève, catégorie Challenge.
+- [Tour d'horizon de l'histoire de Beaubleu et de ses collections](https://beaubleu-paris.com/blogs/actualites/tour-horizon-histoire-beaubleu-et-ses-collections): récapitulatif des collections depuis 2017.
+
+## Version anglaise
+
+- [Home](https://beaubleu-paris.com/en): English version of the Beaubleu store.
+- [History of the Maison](https://beaubleu-paris.com/en/pages/history): creation in 2017 by Nicolas Ducoudert and the principles of the Maison.
+- [Savoir-faire](https://beaubleu-paris.com/en/pages/savoir-faire): creative culture, design and assembly in Paris, and movements.
+- [Permanent collection](https://beaubleu-paris.com/en/collections/permanent-collection): Ecce and Ecce Figura automatic watches.
+- [Ecce collection](https://beaubleu-paris.com/en/pages/ecce-collection): first permanent collection of the Maison, launched in 2023.
+- [La Pièce collection](https://beaubleu-paris.com/en/pages/la-piece-collection): limited edition with dials struck at the Monnaie de Paris.
+- [Seconde Française collection](https://beaubleu-paris.com/en/pages/seconde-francaise-collection): two limited-edition references with a French movement.
+- [Limited editions](https://beaubleu-paris.com/en/collections/limited-editions): limited-edition models currently on sale.
+- [Guarantees](https://beaubleu-paris.com/en/pages/guarantees): movement and watch warranty terms.
+- [F.A.Q](https://beaubleu-paris.com/en/pages/faq): store, payment, warranty, winding, after-sales service and delivery.
+- [Our shops](https://beaubleu-paris.com/en/pages/our-shops): Paris showroom and partner retailers.
+- [Contact the workshop](https://beaubleu-paris.com/en/pages/contact-the-workshop): form for questions, order tracking and after-sales service.
+- [Guides](https://beaubleu-paris.com/en/blogs/guides): English articles on automatic watches, care and buying advice.
+
+## Optional
+
+- [Collection Vitruve](https://beaubleu-paris.com/pages/collection-vitruve): trois montres en édition limitée à 888 exemplaires (Date, GMT, Origine), inspirées de l'architecte romain Vitruve, aujourd'hui en archives.
+- [Archives](https://beaubleu-paris.com/collections/archives): modèles de collections passées, dont Seconde Française, Vitruve, Union et B01.
+- [Le Club Beaubleu](https://beaubleu-paris.com/pages/le-club-beaubleu): espace réservé aux Ambassadeurs, avec co-création des prochaines collections, précommandes et événements.
+- [Détaxe](https://beaubleu-paris.com/pages/detaxe): conditions et étapes de la détaxe pour les clients résidant hors de l'Union européenne qui achètent au showroom.
+- [Comment offrir une montre pour ses 30 ans](https://beaubleu-paris.com/blogs/guides/offrir-une-montre-30-ans-autres-occasions): idées pour offrir une montre à l'occasion d'un anniversaire.
+- [Histoire du mouvement Miyota](https://beaubleu-paris.com/blogs/actualites/histoire-mouvement-miyota): origine japonaise et caractéristiques du mouvement Miyota.
+- [Comment prendre soin de son bracelet en cuir](https://beaubleu-paris.com/blogs/guides/prendre-soin-de-son-bracelet-en-cuir): conseils d'entretien du bracelet en cuir.
+- [Comment fonctionne une montre à phase de lune](https://beaubleu-paris.com/blogs/guides/fonctionnement-montre-phase-de-lune): principe de la complication phase de lune.
