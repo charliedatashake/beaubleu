@@ -15,7 +15,7 @@ Notes importantes :
 
 - [Collection permanente](https://beaubleu-paris.com/collections/collection-permanente): montres automatiques de la collection permanente, Ecce et Ecce Figura, à partir de 990 €.
 - [Collection Ecce](https://beaubleu-paris.com/pages/collection-ecce): première collection permanente de la Maison, lancée en 2023, articulée autour de trois cadrans : Vesperal, Lys et Smalt.
-- [Collection Ecce Figura](https://beaubleu-paris.com/collections/collection-ecce-figura): déclinaison d'Ecce dans un boîtier semi-octogonal, en six coloris : Alba, Lys, Onyx, Sienna, Smalt et Vesperal.
+- [Collection Ecce Figura](https://beaubleu-paris.com/pages/collection-ecce-figura): déclinaison d'Ecce dans un boîtier semi-octogonal, en six coloris : Alba, Lys, Onyx, Sienna, Smalt et Vesperal.
 - [Collection La Pièce](https://beaubleu-paris.com/pages/collection-la-piece): édition limitée à 888 exemplaires par tonalité, dont les cadrans sont frappés à la Monnaie de Paris, en deux modèles (n°1 et n°2), à partir de 1 790 €.
 - [Éditions limitées](https://beaubleu-paris.com/collections/editions-limitees): catalogue des modèles La Pièce n°1 et n°2 disponibles en édition limitée.
 - [Collection Seconde Française](https://beaubleu-paris.com/pages/collection-seconde-francaise): deux références en édition limitée, 19.24 et 20.24, avec trotteuse volante et mouvement France Ébauches, à partir de 1 490 €.
@@ -78,11 +78,18 @@ Notes importantes :
 - [Contact the workshop](https://beaubleu-paris.com/en/pages/contact-the-workshop): form for questions, order tracking and after-sales service.
 - [Guides](https://beaubleu-paris.com/en/blogs/guides): English articles on automatic watches, care and buying advice.
 
+## Achat par un agent IA
+
+- [Instructions pour les agents](https://beaubleu-paris.com/agents.md): règles et outils pour rechercher des produits, gérer un panier et passer commande sur la boutique au nom d'un acheteur, avec son autorisation.
+- [Profil UCP de la boutique](https://beaubleu-paris.com/.well-known/ucp): capacités, points d'accès et moyens de paiement exposés via le Universal Commerce Protocol.
+- [Conditions d'utilisation](https://beaubleu-paris.com/policies/terms-of-service): conditions générales de la boutique en ligne.
+- [Politique de remboursement](https://beaubleu-paris.com/policies/refund-policy): conditions de retour et de remboursement.
+
 ## Optional
 
 - [Collection Vitruve](https://beaubleu-paris.com/pages/collection-vitruve): trois montres en édition limitée à 888 exemplaires (Date, GMT, Origine), inspirées de l'architecte romain Vitruve, aujourd'hui en archives.
 - [Archives](https://beaubleu-paris.com/collections/archives): modèles de collections passées, dont Seconde Française, Vitruve, Union et B01.
-- [Le Club Beaubleu](https://beaubleu-paris.com/pages/le-club-beaubleu): espace réservé aux Ambassadeurs, avec co-création des prochaines collections, précommandes et événements.
+- [Le Club Beaubleu](https://beaubleu-paris.com/blogs/communaute/le-cercle-le-club-beaubleu-qui-nous-rapproche): présentation du club des Ambassadeurs de la Maison, avec co-création des prochaines collections, précommandes et événements.
 - [Détaxe](https://beaubleu-paris.com/pages/detaxe): conditions et étapes de la détaxe pour les clients résidant hors de l'Union européenne qui achètent au showroom.
 - [Comment offrir une montre pour ses 30 ans](https://beaubleu-paris.com/blogs/guides/offrir-une-montre-30-ans-autres-occasions): idées pour offrir une montre à l'occasion d'un anniversaire.
 - [Histoire du mouvement Miyota](https://beaubleu-paris.com/blogs/actualites/histoire-mouvement-miyota): origine japonaise et caractéristiques du mouvement Miyota.
